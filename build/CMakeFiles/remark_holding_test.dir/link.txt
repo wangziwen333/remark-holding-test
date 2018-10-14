@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/remark_holding_test.dir/src/data_center.cc.o CMakeFiles/remark_holding_test.dir/src/main.cc.o CMakeFiles/remark_holding_test.dir/src/my_producer_and_consumer.cc.o  -o remark_holding_test -lpthread 
